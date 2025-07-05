@@ -1,0 +1,10 @@
+com\mycompany\fawry\customer.class
+com\mycompany\fawry\CartItem.class
+com\mycompany\fawry\expirable.class
+com\mycompany\fawry\shippable.class
+com\mycompany\fawry\ShippingService.class
+com\mycompany\fawry\Fawry.class
+com\mycompany\fawry\shipProduct.class
+com\mycompany\fawry\Product.class
+com\mycompany\fawry\nonExpirable.class
+com\mycompany\fawry\nonShipProduct.class
